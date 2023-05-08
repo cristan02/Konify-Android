@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/College/sy com sci/MAD/Konify/app/src/main/res/layout/activity_active_song.xml" value="0.1675929884566054" />
+        <entry key="..\:/College/sy com sci/MAD/Konify/app/src/main/res/layout/activity_current_song.xml" value="0.1675929884566054" />
+        <entry key="..\:/College/sy com sci/MAD/Konify/app/src/main/res/layout/activity_library.xml" value="0.1675929884566054" />
+        <entry key="..\:/College/sy com sci/MAD/Konify/app/src/main/res/layout/activity_login.xml" value="0.18" />
+        <entry key="..\:/College/sy com sci/MAD/Konify/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/College/sy com sci/MAD/Konify/app/src/main/res/layout/activity_register.xml" value="0.1675929884566054" />
+        <entry key="..\:/College/sy com sci/MAD/Konify/app/src/main/res/layout/activity_search.xml" value="0.15604959384352288" />
+        <entry key="..\:/College/sy com sci/MAD/Konify/app/src/main/res/layout/activity_song_display.xml" value="0.15604959384352288" />
+        <entry key="..\:/College/sy com sci/MAD/Konify/app/src/main/res/layout/splash.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
